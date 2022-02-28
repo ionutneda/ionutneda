@@ -2,4 +2,4 @@
 - 👀 I’m interested in software programming and testing.
 - 🌱 I’m currently learning Java and Spring Boot.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me: ionut.neda7@gmail.com.
+- 📫 How to reach me: ionut.neda@outlook.com.
